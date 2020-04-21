@@ -11,3 +11,4 @@ Playing around with CANVAS!
 - triangles change color, when moving with mouse over a triangle
 
 #### See picture: 
+![](triangle.gif)
